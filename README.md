@@ -20,17 +20,24 @@ To get started with the Movie Recommendation System with Streamlit GUI, follow t
    cd movie-recommendation-system
    git clone https://github.com/syednoor058/movie-suggestion-system.git
 
-2. **Install dependencies:**
+2. **Download the dataset:**
+
+   ```sh
+   [cd movie-recommendation-system
+   git clone https://github.com/syednoor058/movie-suggestion-system.git](https://grouplens.org/datasets/movielens/20m/)
+
+
+3. **Install dependencies:**
 
    ```sh
    pip install -r requirements.txt
 
-3. **Run the Streamlit GUI:**
+4. **Run the Streamlit GUI:**
 
    ```sh
    streamlit run ./site_by_streamlit/app.py
 
-4. **Input a Movie:
+5. **Input a Movie:
 
   - Open the Streamlit interface in your web browser.
   - Input a movie name and receive personalized movie recommendations.
