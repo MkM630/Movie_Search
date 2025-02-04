@@ -24,7 +24,7 @@ To get started with the Movie Recommendation System with Streamlit GUI, follow t
 
    ```sh
    [cd movie-recommendation-system
-   git clone https://github.com/syednoor058/movie-suggestion-system.git](https://grouplens.org/datasets/movielens/20m/)
+   https://grouplens.org/datasets/movielens/20m/
 
 
 3. **Install dependencies:**
