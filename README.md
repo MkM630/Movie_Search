@@ -23,7 +23,7 @@ To get started with the Movie Recommendation System with Streamlit GUI, follow t
 2. **Download the dataset:**
 
    ```sh
-   [https://grouplens.org/datasets/movielens/20m/](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 
 3. **Install dependencies:**
