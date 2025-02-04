@@ -23,7 +23,6 @@ To get started with the Movie Recommendation System with Streamlit GUI, follow t
 2. **Download the dataset:**
 
    ```sh
-   [cd movie-recommendation-system
    https://grouplens.org/datasets/movielens/20m/
 
 
